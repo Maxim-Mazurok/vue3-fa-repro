@@ -1,0 +1,14 @@
+{
+  "files": ["src/components/HelloWorld.tsx"],
+  "compilerOptions": {
+    "jsx": "preserve"
+  },
+  "references": [
+    {
+      "path": "./tsconfig.vite-config.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
